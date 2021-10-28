@@ -10,7 +10,7 @@
 <center>
 
 [
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=PietroMezza&show_icons=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=pietromezzaroba&show_icons=true)
 ](https://github.com/Pietromezza)
 
 </center>
